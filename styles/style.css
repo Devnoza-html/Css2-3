@@ -1,0 +1,163 @@
+body {
+    font-family: inter;
+}
+
+#navigation {
+    margin-left: 660px;
+}
+
+#next {
+    margin-right: 160px;
+    vertical-align: middle;
+}
+
+#about, #what, #help, #contact {
+    display: inline;
+    font-size: 18px;
+    margin-right: 25px;
+    vertical-align: middle;
+}
+
+#contact {
+    color: #8E26C0;
+    font-weight: 600;
+}
+
+#contactUs {
+    margin-left: 160px;
+    padding: 8px 16px;
+    border: 1px solid #8E26C0;
+    border-radius: 8px;
+    color: #8E26C0;
+}
+
+#whatWeOffer {
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+#header {
+    width: 500px;
+    text-align: center;
+}
+
+h2 {
+    display: inline-block;
+    text-align: center;
+}
+
+#imageDiv {
+    display: inline-block;
+    width: 500px;
+    margin-right: 70px;
+}
+
+#textDiv {
+    display: inline-block;
+    width: 500px;
+    margin-left: 45px;
+}
+
+#lorem {
+    display: inline-block;
+    color: #535862;
+    font-weight: 200;
+    padding-top: 13px;
+}
+
+#global {
+    font-family: fira-sans;
+    font-size: 22px;
+    line-height: 40px;
+    font-weight: 400;
+}
+
+h1 {
+    text-align: center;
+    font-size: 56px;
+    margin-top: 60px;
+}
+
+#ipsum {
+    color: #535862;
+    text-align: center;
+    width: 900px;
+    margin: 0 auto;
+}
+
+#form {
+    background-color: #F7F4FF;
+   
+} 
+
+#info {
+    margin-top: 100px;
+    margin-left: 325px;
+    background-color: white;
+}
+
+#adress {
+    display: block;
+    margin-top: -29px;
+    height: 6px;
+    padding-top: -45px;
+}
+
+#joystick {
+    background-color: #F7F4FF;
+    padding-right: 20px;
+    border-radius: 16px;
+    margin: 0 auto;
+}
+
+#glen {
+    display: inline-block;
+    margin-top: -20px;
+    margin-bottom: -40px;
+}    
+
+#ridge {
+    display: inline-block;
+}
+
+#mail {
+    width: 32px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+#email {
+    display: block;
+    margin-top: -29px;
+    height: 6px;
+    padding-top: -45px;
+    margin-left: 60px;
+}
+
+#deana {
+    display: inline-block;
+    margin-top: -20px;
+    margin-bottom: -40px;
+    margin-left: 60px;
+}    
+
+#phone {
+    width: 32px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+#phoneOne {
+    display: block;
+    margin-top: -29px;
+    height: 6px;
+    padding-top: -45px;
+    margin-left: 60px;
+}
+
+#num {
+    display: inline-block;
+    margin-top: -20px;
+    margin-bottom: -40px;
+    margin-left: 60px;
+}    
